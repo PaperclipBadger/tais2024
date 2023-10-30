@@ -29,9 +29,9 @@ TAIS 2024は[Noeon Research](https://noeon.ai)によって後援されていま�
 私たちの関心領域は以下の通りです：
 
 * 機械論的解釈可能性
-* Scaleable Alignment
+* Scaleable alignment
 * Casual incentives
-* Agent foundatinos
+* Agent foundations
 * 特異学習理論
 * Argumentation
 * Emergent agentic phenomena
