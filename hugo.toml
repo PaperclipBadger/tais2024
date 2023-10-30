@@ -1,6 +1,6 @@
 baseURL = 'https://tais2024.cc/'
 defaultContentLanguage = 'en'
-defaultContentLanguageInSubir = true
+defaultContentLanguageInSubdir = true
 title = 'TAIS2024'
 copyright = "AI Safety 東京"
 theme = 'hugo-bearcub'
@@ -40,6 +40,3 @@ enableRobotsTXT = true
     
     [languages.ja.params]
       madeWith = '[熊子](https://github.com/clente/hugo-bearcub)で築きました'
-
-[params.paige]
-  style = "#paige-content { width: 66ch; }"
