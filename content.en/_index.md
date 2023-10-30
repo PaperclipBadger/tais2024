@@ -4,7 +4,7 @@ menu: main
 weight: 1
 ---
 
-# About TAIS 2024
+## About TAIS 2024
 
 The Technical AI Safety Conference will bring together specialists in the field of AI and technical safety to share their research and benefit from each others’ expertise. We want our attendees to involve themselves in cutting-edge conversations throughout the conference with access to networking opportunities with the brightest minds in AI Safety.
 
@@ -12,19 +12,19 @@ TAIS 2024, being hosted in Tokyo, will allow access to Japanese research and spe
 
 TAIS 2024 is sponsored by [Noeon Research](https://noeon.ai).
 
-# Event Details
+## Event Details
 
-When: April 5th 2024
-Where: Tokyo. Venue TBC.
-Agenda: TBC.
+* When: April 5th 2024
+* Where: Tokyo. Venue TBC.
+* Agenda: TBC.
 
-# Get involved
+# Get involved
 
-## Register your interest
+### Register your interest
 
 This event is free, but limited to 150 people, so if you wish to join please sign up by: **Deadline** &lt;signup form&gt;
 
-## Call for Presentations
+### Call for Presentations
 
 Our interest areas are:
 
