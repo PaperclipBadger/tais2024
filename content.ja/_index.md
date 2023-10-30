@@ -14,9 +14,9 @@ TAIS 2024は[Noeon Research](https://noeon.ai)によって後援されていま�
 
 ### イベント詳細
 
-日時: 2024年4月5日
-場所: 東京。会場は後日発表。
-議題: 後日発表。
+* 日時: 2024年4月5日
+* 場所: 東京。会場は後日発表。
+* 議題: 後日発表。
 
 ### 参加方法
 
@@ -29,12 +29,12 @@ TAIS 2024は[Noeon Research](https://noeon.ai)によって後援されていま�
 私たちの関心領域は以下の通りです：
 
 * 機械論的解釈可能性
-* スケーラブルな監督
-* 因果的インセンティブ分析
-* エージェントの基盤
-* 単独学習理論
-* 論争
-* 緊急エージェント現象
-* 計算システムの熱力学/統計力学的分析
+* Scaleable Alignment
+* Casual incentives
+* Agent foundatinos
+* 特異学習理論
+* Argumentation
+* Emergent agentic phenomena
+* Thermodynamic / statistical-mechanical analyses of computational systems
 
 これらの領域での作業がある場合は、[プレゼンテーションの募集](./submissions)に回答してください。

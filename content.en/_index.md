@@ -30,7 +30,7 @@ Our interest areas are:
 
 * Mechanistic interpretability
 * Scalable oversight
-* Causal incentive analysis
+* Causal incentives
 * Agent foundations
 * Singular learning theory
 * Argumentation
