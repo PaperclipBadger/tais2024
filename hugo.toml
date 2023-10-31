@@ -40,3 +40,20 @@ enableRobotsTXT = true
     
     [languages.ja.params]
       madeWith = '[熊子](https://github.com/clente/hugo-bearcub)で築きました'
+  
+[params]
+  favicon = "images/favicon.png"
+  title = "TAIS2024"
+  description = "TAIS2024"
+  dateFormat = "2006-01-02"
+
+  # If your blog is multilingual but you haven't translated a page, this theme
+  # will create a disabled link. By setting `hideUntranslated` to true, you can
+  # have the theme simply not show any link
+  hideUntranslated = false
+
+  # (EXPERIMENTAL) This theme is capable of dynamically generating social cards
+  # for posts that don't have `images` defined in their front matter; By setting
+  # `generateSocialCard` to false, you can prevent this behavior. For more
+  # information see layouts/partials/seo_tags.html
+  generateSocialCard = false
