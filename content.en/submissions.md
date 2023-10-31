@@ -14,7 +14,7 @@ We are now accepting presentation submissions for TAIS 2024.
 
 2024-04-05: Conference!
 
- ### Details
+### Details
 
 The Technical AI Safety Conference will bring together specialists in the field of technical safety to share their research and benefit from each others’ expertise. We want our attendees to involve themselves in cutting-edge conversations throughout the conference with networking opportunities with the brightest minds in AI Safety.
 We seek to launch this forum for academics, researchers and professionals who are doing technical work in these or adjacent fields:
