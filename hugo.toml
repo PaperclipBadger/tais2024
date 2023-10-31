@@ -42,7 +42,7 @@ enableRobotsTXT = true
       madeWith = '[熊子](https://github.com/clente/hugo-bearcub)で築きました'
   
 [params]
-  favicon = "images/favicon.png"
+  favicon = "images/favicon-128.png"
   title = "TAIS2024"
   description = "TAIS2024"
   dateFormat = "2006-01-02"
