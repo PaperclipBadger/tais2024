@@ -22,7 +22,7 @@ TAIS 2024は[Noeon Research](https://noeon.ai)によって後援されていま�
 
 #### 興味を登録する
 
-このイベントは無料ですが、150人に制限されているため、参加を希望する方は**締め切り**までに&lt;登録フォーム&gt;からお申し込みください。
+このイベントは無料ですが、150人に制限されているため、参加を希望する方は[登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSeELqHsfLaAGZp6f8aO4wL21MwryWolKL2luGPqS5pqNxkxbQ/viewform)からお申し込みください。
 
 #### プレゼンテーションの募集
 

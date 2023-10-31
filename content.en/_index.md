@@ -22,7 +22,7 @@ TAIS 2024 is sponsored by [Noeon Research](https://noeon.ai).
 
 #### Register your interest
 
-This event is free, but limited to 150 people, so if you wish to join please sign up by: **Deadline** &lt;signup form&gt;
+This event is free, but limited to 150 people, so if you wish to join please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSeELqHsfLaAGZp6f8aO4wL21MwryWolKL2luGPqS5pqNxkxbQ/viewform).
 
 #### Call for Presentations
 
