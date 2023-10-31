@@ -29,7 +29,7 @@ This event is free, but limited to 150 people, so if you wish to join please [si
 Our interest areas are:
 
 * Mechanistic interpretability
-* Scalable oversight
+* Scaleable oversight
 * Causal incentives
 * Agent foundations
 * Singular learning theory

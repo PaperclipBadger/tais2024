@@ -30,7 +30,7 @@ TAIS 2024は[Noeon Research](https://noeon.ai)によって後援されていま�
 
 * 機械論的解釈可能性
 * Scaleable oversight
-* Casual incentives
+* Causal incentives
 * Agent foundations
 * 特異学習理論
 * Argumentation

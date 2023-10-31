@@ -21,7 +21,7 @@ TAIS 2024のプレゼンテーション提出を受け付けています。
 
 * 機械論的解釈可能性
 * Scaleable oversight
-* Casual incentives
+* Causal incentives
 * Agent foundations
 * 特異学習理論
 * Argumentation

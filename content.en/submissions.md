@@ -20,8 +20,8 @@ The Technical AI Safety Conference will bring together specialists in the field 
 We seek to launch this forum for academics, researchers and professionals who are doing technical work in these or adjacent fields:
 
 * Mechanistic interpretability
-* Scalable oversight
-* Causal incentive analysis
+* Scaleable oversight
+* Causal incentives
 * Agent foundations
 * Singular learning theory
 * Argumentation
